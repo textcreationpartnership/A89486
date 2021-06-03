@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The manner of the arraignment of those twenty eight persons who were appointed to be tried at the sessions-house in the Old-Bayly on Wednesday the tenth day of October 1660. by a speciall commission of oyer and terminer from His Sacred Majesty.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89486</idno><idno type="EEBO-CITATION">99867042</idno>
+  <idno type="VID">168975</idno>
+  <idno type="EEBO-PROQUEST">2240935569</idno>
+  
+            <idno type="STC">Wing M462</idno>
+            <idno type="STC">Thomason E1046_5</idno>
+            <idno type="STC">ESTC R208036</idno>
+            <idno type="PROQUEST">99867042</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867042e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168975)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1046[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The manner of the arraignment of those twenty eight persons who were appointed to be tried at the sessions-house in the Old-Bayly on Wednesday the tenth day of October 1660. by a speciall commission of oyer and terminer from His Sacred Majesty.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J.S. and Edward Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Oct: 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Crime --  England --  Early works to 1800.</term>
+               <term type="topical_term">Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168975:1"/>
+            <p>THE MANNER OF THE Arraignment OF Those <hi>Twenty eight Persons</hi> who were appointed to be tried at the Sessions-House in the <hi>Old-Bayly</hi> on <hi>Wednes<g ref="char:EOLhyphen"/>day</hi> the tenth day of <hi>October</hi> 1660. by a speciall Commission of <hi>Oyer and Terminer</hi> from His Sacred Majesty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. S.</hi> and <hi>Edward Thomas.</hi>
+               <add>Oct: 11.</add> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168975:2"/>
+            <pb n="3" facs="tcp:168975:2"/>
+            <p>ABout the Hour of seven of the clock, on <hi>Wednesday</hi> Morning the 10. of this instant <hi>October,</hi> the Sheriff of <hi>London,</hi> with his Officers, and a considerable part of the Trained Bands, went towards the Tower of <hi>London,</hi> to take into custody the several persons following, who were ordered by his Majesties special Commission of <hi>Oyer</hi> and <hi>Terminer,</hi> to be tried in the Old Baily, <hi>London,</hi> and about Ten of the clock, being Guarded by the Green Regiment of the Trai<g ref="char:EOLhyphen"/>ned Band to Newgate, the Presse-yard being prepared to receive them, and being conducted likewise thither by a Troop of Horse, they were all secured in the said Presse-yard accor<g ref="char:EOLhyphen"/>dingly, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>Sir <hi>Hardresse Waller,</hi>
+               </item>
+               <item>
+                  <hi>William Heveningham.</hi>
+               </item>
+               <item>
+                  <hi>Henry Martin.</hi>
+               </item>
+               <item>
+                  <hi>Robert Tichburne</hi>
+               </item>
+               <item>
+                  <hi>Robert Lilburne</hi>
+               </item>
+               <item>
+                  <hi>John Carew.</hi>
+               </item>
+               <item>
+                  <hi>Thomas SCOT.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Harison,</hi>
+               </item>
+               <item>
+                  <hi>Isaac Pennington.</hi>
+               </item>
+               <item>
+                  <hi>Gilbert Millington.</hi>
+               </item>
+               <item>
+                  <hi>Owen Roe.</hi>
+               </item>
+               <item>
+                  <hi>Adrian Scroope.</hi>
+               </item>
+               <item>
+                  <hi>John Jones.</hi>
+               </item>
+               <item>
+                  <hi>Gregory Clement.</hi>
+               </item>
+               <pb n="4" facs="tcp:168975:3"/>
+               <item>
+                  <hi>John Cooke,</hi>
+               </item>
+               <item>
+                  <hi>Henry Smith.</hi>
+               </item>
+               <item>
+                  <hi>Vincent Potter.</hi>
+               </item>
+               <item>
+                  <hi>George Fleetwood.</hi>
+               </item>
+               <item>
+                  <hi>James Temple.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Waite.</hi>
+               </item>
+               <item>
+                  <hi>Francis Hacker.</hi>
+               </item>
+               <item>
+                  <hi>Edmund Harvey.</hi>
+               </item>
+               <item>
+                  <hi>John Downes.</hi>
+               </item>
+               <item>
+                  <hi>Augustine Garland.</hi>
+               </item>
+               <item>
+                  <hi>Symon Meyne.</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eter Temple.</hi>
+               </item>
+               <item>
+                  <hi>Hugh Peters,</hi>
+               </item>
+               <item>
+                  <hi>Daniell Axtell.</hi>
+               </item>
+            </list>
+            <p>All the way as they passed to the place aforesaid, Col. <hi>Harison</hi> carried himself rather like one whose conscience was Seared with the Guilt of Blood, and so Impudently to Out-face all Legall Authority as knowing he must suffer, rather then some others among them whose sence of their own Guilt made their Countenances to change, and their Hearts to faile them.</p>
+            <p>The Court by this time being Sate, having first read their Commissions and called the Jury, the Prisoners was sent for to the Common house before the Bench; a place being made on purpose from the Presse-yard to the Sessions House to avoid the presse of the people which were so Numerous in the streets, that all the way as they came to <hi>Newgate,</hi> you could hear nothing for Deriding shouts, nor hardly se them for the croud of the Multitude.</p>
+            <p>The Court now called three of the Prisoners to the Bar. <hi>Viz.</hi> Sir <hi>Har. Waller,</hi> Coll. <hi>Harison, William Heve<g ref="char:EOLhyphen"/>ningham.</hi>
+            </p>
+            <p>The first was Sir <hi>Hardresse Waller</hi> which with the two others were indicted to the purpose to lowing.</p>
+            <p>That they together with <hi>Oliver Cromwell, Henry Ireton, Robert <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itchborne, Isaac Pennington, Robert Lilburne <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hewson</hi> Late of the City of <hi>Westminster Shoomaker,</hi> &amp;<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Had Wilfully, Maliciously, and Tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iterously, Advi<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Abetted, Assisted, contrived, and Compasled the D<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <pb n="5" facs="tcp:168975:3"/>of our Late Dread Soveraign <hi>Charles the First by the Grace of God of ever Blessed Memory <hi>KING</hi> of <hi>England Scot<g ref="char:EOLhyphen"/>land, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi> &amp;c:</hi>
+               </hi>
+            </p>
+            <p>Sir <hi>Hardresse Waller</hi> began to excuse his long being out of <hi>England</hi> and unacquaintance with English Affairs, but being bid to answer possitively, <hi>VVhether he was Guilty or not Guilt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of the High Treason whereof he had been In<g ref="char:EOLhyphen"/>dicted, and then Arraign'd. Answered, <hi>Guilty.</hi>
+            </p>
+            <p>Major General <hi>Harison</hi> (at first refused to hold up his Hand) b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing put to the same Question seemed at first to Question the Court, and sometimes to Fly into Fift <hi>Mo<g ref="char:EOLhyphen"/>narchy</hi> Tearms, as of the Kingdome of Jesus Christ, <hi>&amp;c.</hi> After Seven or Eight times asking whether he would pleed <hi>Guilty or not Guilty,</hi> carelesly and as if unconcerned, Answered, <hi>Not Gtilty</hi>
+            </p>
+            <p>
+               <hi>William Heveningham</hi> answered the same.</p>
+            <p>These being Dismist, the next who was called to the Bar were.
+<list>
+                  <item>
+                     <hi>Isaac Pennington,</hi>
+                  </item>
+                  <item>
+                     <hi>Gilbert Millington,</hi>
+                  </item>
+                  <item>
+                     <hi>Owen Roe,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Marten,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Titchburne,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Liburne.</hi>
+                  </item>
+               </list>
+               <hi>Isaac Pennington</hi>'s Age g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve him not time to make long Apologies, for he very suddenly answered <hi>Not Guilty.</hi>
+            </p>
+            <p>And so did <hi>Gilbert Millington,</hi> and <hi>Owen Roe</hi>
+            </p>
+            <p>
+               <hi>Henry Marten</hi> being the next began to Quibble with the COURT, and to deny his Name to be mentio<g ref="char:EOLhyphen"/>ned in the ACT; whereupon the COURT were put to the trouble of calling for the <hi>Act of Oblivion;</hi> and there re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d his Name: but <hi>Harry</hi> answered, that his name was <hi>Marten</hi> not <hi>Martin,</hi> as in the <hi>Act</hi> expressed. But be<g ref="char:EOLhyphen"/>ing told <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey knew him to be the Man let his Name be what it would; and was bid to answer as aforesaid. Who then said: <hi>Not Guilty.</hi>
+            </p>
+            <pb n="6" facs="tcp:168975:4"/>
+            <p> Coll. <hi>Tichburne</hi> being next, began to excuse his want of skill in Law Affairs; pleading that he was before very wise, learned and judicious Lawyers, and that he being unable to plead for himself, desired the Court to Assigne him Councell to assist him therein.</p>
+            <p>To which it was answered, That he was not yet come to his Tryall, being now only Ar<g ref="char:EOLhyphen"/>raigned, and if he had any thing upon his Tryal to say, he should then move it; and so was askt again <hi>guilty or not guilty?</hi> To which he could not tell what to answer, That he did ac<g ref="char:EOLhyphen"/>knowledge part of the Indictment, but could not doe so by the form of it.</p>
+            <p>But being told he must say Guilty or not;</p>
+            <p>He answered. <hi>Not Guilty.</hi>
+            </p>
+            <p>Collonel <hi>Lilburne</hi> answered the like.</p>
+            <p>These being likewise dispatcht, Another Indi<g ref="char:EOLhyphen"/>ctment was brought in to the aforesaid effect, against
+<list>
+                  <item>
+                     <hi>Adrian Scroope.</hi>
+                  </item>
+                  <item>
+                     <hi>John Jones.</hi>
+                  </item>
+                  <item>
+                     <hi>Gregory Clement.</hi>
+                  </item>
+                  <item>
+                     <hi>John Carew:</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Scot.</hi>
+                  </item>
+                  <item>
+                     <hi>John Cooke.</hi>
+                  </item>
+               </list> All which pleaded not Guilty. Mr. <hi>Scot</hi> at first indeed began to put Questions to the Court; But although he formerly said in the <hi>Rump-Parliament House</hi> upon jealousies of the
+<pb n="7" facs="tcp:168975:4"/>Kings coming home, That he desired no greater Monument to be written upon his Tomb, then Inscription, <hi>Thomas Scot one of the Judges of</hi> Charles Stuart <hi>King of</hi> England, yet he plea<g ref="char:EOLhyphen"/>ded not Guilty to the Indictment.</p>
+            <p>
+               <hi>John Cooke</hi> would have said something like<g ref="char:EOLhyphen"/>wise, but being minded that he understood the Law better, then to deny to plead, answered thereunto.</p>
+            <p>There was nothing materiall in the answers of the next Five who were put in another Indictment, <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>Edmund Harvey.</hi>
+                  </item>
+                  <item>
+                     <hi>Vincent Potter.</hi>
+                  </item>
+                  <item>
+                     <hi>John Downes.</hi>
+                  </item>
+                  <item>
+                     <hi>Aug. Garland.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Smith.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Who all answered <hi>not Guilty.</hi>
+            </p>
+            <p>The last Eight are now called to the Bar, who being all as aforesaid commanded to hold up their hands whilst the Indictment was read; the Clerk of the Peace proceeded as is before exprest against
+<list>
+                  <item>
+                     <hi>George Fleetwood.</hi>
+                  </item>
+                  <item>
+                     <hi>James Temple.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Waite.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Hacker.</hi>
+                  </item>
+                  <item>
+                     <hi>Symon Meyne.</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Temple.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Peters:</hi>
+                  </item>
+                  <item>
+                     <hi>Dantell Axtell.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Colonel <hi>George Fleetwood</hi> being first asked the question of Guilty or not Guilty, never Demurred but presently answered, <hi>Guilty.</hi>
+            </p>
+            <p>And thereupon delivered unto the <hi>Court</hi> his Petition begging mercy as Sir <hi>Hardresse Waller</hi> had done before him.</p>
+            <p>
+               <hi>Meyne</hi> both the <hi>Temples</hi> and <hi>Waite</hi> pleaded not Guilty.</p>
+            <p>
+               <hi>Hugh Peters</hi> being asked whether he was Guilty of the High Treason whereof he was Indicted and then Arraig<g ref="char:EOLhyphen"/>ned; answered,</p>
+            <pb n="8" facs="tcp:168975:5"/>
+            <p> My Lord, <hi>I would not say</hi> Guilty <hi>for Ten thousand Worlds.</hi>
+            </p>
+            <p>Being again asked the same Question, he answered, <hi>not Guilty.</hi>
+            </p>
+            <p>Collonel <hi>Francis Hacker</hi> did the like.</p>
+            <p>Col. <hi>Daniell Axtell,</hi> desired he might have the Liberry of an <hi>English</hi> Man, that the Law was his Birth-right, and so he might lawfully claim it, That he did conceive there was Law in his <hi>Case,</hi> and so desired to have Councel in it, That he did believe the Parliament—</p>
+            <p>But there he was bid to plead to the Indict<g ref="char:EOLhyphen"/>ment, <hi>Guilty or not guilty,</hi> which after much roving and being told the Danger of standing out, he answered. <hi>Why then, not Guilty.</hi>
+            </p>
+            <p>And being asked by whom he would be tryed, he did not answer; at which one bid him answer? <hi>By God and his Country.</hi> But he an<g ref="char:EOLhyphen"/>swered, he could not doe so; <hi>For he did not believe God to be there,</hi> In conclusion, he said, <hi>He would be tryed by the Lord Jesus Christ and by his Country;</hi> Whereupon they were all sent back again to the Presse-yard; and the Court Adjourned till to Morrow Morning at Nine of the Clock.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
